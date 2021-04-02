@@ -1,4 +1,4 @@
-# Sujet de rattrapage : JanKenPon
+# Sujet : JanKenPon
 
 Tu vas aider à la correction et finalisation du jeu "Jan Ken Pon", qui est la dénomination japonaise de "Pierre-Feuille-Ciseaux".
 
