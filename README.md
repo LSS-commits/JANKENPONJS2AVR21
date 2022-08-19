@@ -12,5 +12,5 @@ Chaque victoire rapporte 1 point au joueur gagnant.
 Il n'y a pas d'autres règles.
 [Visualiser le projet](https://lss-commits.github.io/JANKENPON_JAVASCRIPTOBJECT/)
 
-## [Issu du challenge Jankenpon Pure Javascript](https://github.com/Maus3rSR/JanKenPon-Pure-Javascript-Example)
+Issu du [challenge Jankenpon Pure Javascript de What The Fabrik](https://github.com/Maus3rSR/JanKenPon-Pure-Javascript-Example)
 
